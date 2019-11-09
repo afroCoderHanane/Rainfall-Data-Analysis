@@ -1,0 +1,4 @@
+Total rainfall: 215.75 inches
+Average Monthly rainfall 17.9792 inches
+The most rain fell in September with 75.2 inches
+The least rain fell in December with 0.25 inches
